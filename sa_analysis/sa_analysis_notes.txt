@@ -1,0 +1,45 @@
+FILES GIVEN IN THE DATASET
+Metadata - Sheets (Details of each file)
+Metadata - Fields (Details of each columns/features of the dataset)
+
+=-=-=-=-=-=-=
+
+MAIN
+
+DOH Case Information (from 2020 - 2023) 
+- List of confirmed COVID-19 cases from the DOH Epidemiological Bureau.
+- About Dates, Quarantine Status, Province, Health Status, Date died, Date removed
+
+Case Information (20240103) - 01 | (numrows: 1,000,001)
+Case Information (20240103) - 02 | (numrows: 1,000,001)
+Case Information (20240103) - 03 | (numrows: 1,000,001)
+Case Information (20240103) - 04 | (numrows: 136,489)
+# Case Information (20240103) - 05 | (numrows: 1,048,576) (other folder) About Regions and number of ICUs, suspected asymptomatic, pos., etc. #
+
+=-=-=-=-=-=-=
+
+Other Files that seem irrelevant for the Activity objective:
+
+Quarantine Facility Data Report
+- Self-reported inventories from quarantine facilities on inventory of personal protective equipment (PPE) and medical personnel. Updated on a weekly basis by quarantine
+Quarantine Facility Data | Reportdates, doctors, nurse, isolated beds, facility name, brgy, etc.
+Quarantine Facility Data Report 2020 (numrows: 480,878),
+Quarantine Facility Data Report 2021 (numrows: 1,048,576),
+Quarantine Facility Data Report 2022 (numrows: 1,048,576)
+Quarantine Facility Data Report 2023 (numrows: 921,735),
+
+____________________________________
+
+DOH Data Collect - Weekly Report (from 2020 to 2023)
+- Self-reported inventories for the day from hospitals on COVID19-dedicated beds and mechanical ventilators
+Medical Materials Report (2020 - 2023) (numrows: 283,175)
+
+____________________________________
+
+Aggregates
+- About hospitals
+
+____________________________________
+
+Tracker
+- Details of number of doctors, nurses, provinces, location, etc.
