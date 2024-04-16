@@ -4,7 +4,7 @@ Metadata - Fields (Details of each columns/features of the dataset)
 
 =-=-=-=-=-=-=
 
-MAIN
+MAIN (this portion is to be used for forecasting purpose)
 
 DOH Case Information (from 2020 - 2023) 
 - List of confirmed COVID-19 cases from the DOH Epidemiological Bureau.
