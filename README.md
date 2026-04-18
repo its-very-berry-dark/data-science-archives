@@ -1,13 +1,17 @@
-# Rona's Data Science Portfolio & Archive
+<p align='center'>⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆<br></p>
 
-Welcome to my main project repository! 
+<h1 align='center'> Rona's Data Science Portfolio & Archive </h1>
 
-This space serves as a living archive of my journey in data science, machine learning, and natural language processing. It contains a collection of academic research, personal projects, and exploratory data analysis spanning from my early coursework in 2024 to my current research in 2026.
+<p align='center'> Welcome to my main project repository! <br> </p>
+
+<p align='center'>This space serves as a living archive of my journey in data science, machine learning, and natural language processing. It contains a collection of personal projects and exploratory data analysis spanning from my early coursework in 2024 to my current research in 2026. <br><br> </p>
+
+<p align='center'>⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆<br></p>
 
 ## My Philosophy: The "Lessons Learned" Approach
 I believe that growth in data science isn't just about showing flawless final models; it's about transparency, debugging, and continuous improvement. 
 
-Inside some of these folders, you won't just find polished code. You will find original, untouched files sitting right next to their "Refactored 2026" counterparts. I purposefully leave my past mistakes (like using classification metrics on regression tasks or keeping excessive outliers) in the original files, and use the refactored files to demonstrate how my data intuition, domain knowledge, and coding skills have evolved over the years.
+<p>Inside some of these folders, you won't just find polished code. You will find original, untouched files sitting right next to their "Refactored 2026" counterparts. I purposefully leave my past mistakes (like using classification metrics on regression tasks or keeping excessive outliers) in the original files, and use the refactored files to demonstrate how my data intuition, domain knowledge, and coding skills have evolved over the years. </p>
 
 ## Repository Directory
 
@@ -20,10 +24,14 @@ Here is a breakdown of the projects contained in this repository:
 * **`/sa_model`**
   * **Summary:** Yet to be added.
  
-## 🛠️ Core Tech Stack
+ <p><br></p>
+ 
+## Core Tech Stack
 * **Languages:** Python
 * **Libraries:** Pandas, Scikit-learn, TensorFlow / Keras, NLTK, Transformers
 * **Tools:** Jupyter Notebooks, VS Code, Git
 
 ---
-*Feel free to explore the individual folders for specific `README.md` files detailing the methodology and lessons learned for each project.*
+*Feel free to explore the individual folders for specific `README.md` files detailing the methodology and lessons learned for each project.*  ( ∩´͈ ᐜ `͈∩)
+
+<p align='center'> <br> ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</p>
