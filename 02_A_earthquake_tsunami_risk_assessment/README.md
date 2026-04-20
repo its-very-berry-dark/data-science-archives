@@ -1,5 +1,5 @@
 
-<h1 align='center'> ༄˖°.🍃.ೃ࿔*:･ Global Earthquake-Tsunami Risk Assessment Analysis ༄˖°.🍃.ೃ࿔*:･</h1>
+<h1 align='center'> 𓆝𓆟༝˚｡⋆𓆉︎⋆｡˚༝𓆞𓆝 Global Earthquake-Tsunami Risk Assessment Analysis 𓆝𓆟༝˚｡⋆𓆉︎⋆｡˚༝𓆞𓆝</h1>
 
 <p align='center'> Personal Project <br>
 <p align='center'> its-very-berry-dark <br>
@@ -12,9 +12,9 @@ This project analyze and possible predict or classify earthquakes and tsunamis u
 
 <h2> Dataset Details </h2>
 <div>
-    <p> Dataset:<b> Global Earthquake-Tsunami Risk Assessment Dataset </b> <br> 
-    Seismic Features & Tsunami Classification Dataset for Risk Assessment 
-Dataset Information <br><br>
+    <p> Dataset:<b> Global Earthquake-Tsunami Risk Assessment Dataset </b> <br>
+    Seismic Features & Tsunami Classification Dataset for Risk Assessment  <br> <br>
+Dataset Information <br>
     Source: Kaggle <br>
     Total Records: 782 earthquakes <br>
     Time Period: January 1, 2001 to December 31, 2022 (22 years) <br>
@@ -22,7 +22,8 @@ Dataset Information <br><br>
 </div>
 
 <h2> Contents of the Data </h2>
-Content to be added.
+There are a total of 13 columns in the dataset, with `tsunami` being the target/dependent variable. 
+The dataset is purely numerical, though some of the columns would classify as ordinal and the `tsunami` column being binary.
 
 ---
 
@@ -34,7 +35,7 @@ Content to be added.
 
 ---
 
-Status: On-going
+Status: On-going (Still at the EDA stage)
 
 
- <p align='center'> ༄˖°.🍃.ೃ࿔*:･ ༄˖°.🍃.ೃ࿔*:･ ༄˖°.🍃.ೃ࿔*:･ ༄˖°.🍃.ೃ࿔*:･ ༄˖°.🍃.ೃ࿔*:･ </p>
+ <p align='center'> 𓆝𓆟༝˚｡⋆𓆉︎⋆｡˚༝𓆞𓆝 𓆝𓆟༝˚｡⋆𓆉︎⋆｡˚༝𓆞𓆝 𓆝𓆟༝˚｡⋆𓆉︎⋆｡˚༝𓆞𓆝 𓆝𓆟༝˚｡⋆𓆉︎⋆｡˚༝𓆞𓆝 </p>

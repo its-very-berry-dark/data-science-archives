@@ -1,4 +1,4 @@
-<p align='center'>⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆<br></p>
+<p align='center'>⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ <br></p>
 
 <h1 align='center'> Rona's Data Science Portfolio & Archive </h1>
 
@@ -6,7 +6,7 @@
 
 <p align='center'>This space serves as a living archive of my journey in data science, machine learning, and natural language processing. It contains a collection of personal projects and exploratory data analysis spanning from my early coursework in 2024 to my current research in 2026. <br><br> </p>
 
-<p align='center'>⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆<br></p>
+<p align='center'>⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ <br></p>
 
 ## My Philosophy: The "Lessons Learned" Approach
 I believe that growth in data science isn't just about showing flawless final models; it's about transparency, debugging, and continuous improvement. 
@@ -20,7 +20,9 @@ Here is a breakdown of the projects contained in this repository:
 * **`/taxi_ml_dl_activity`**
   * **Summary:** A 2024 academic project (will have a refactored counterpart) predicting taxi fares and provider classifications using traditional ML and Deep Learning on an 11.9 million row dataset. Focuses on data cleaning, outlier handling, and metric selection.
 * **`/indie_roguelike_nlp_analysis`**
-  * **Summary:** A long-term research project/thesis utilizing Natural Language Processing and Comparative Benchmarking to predict the player satisfaction and market performance of indie Roguelike games on the Steam platform.
+  * **Summary:** A long-term research project/thesis utilizing Natural Language Processing and Comparative Benchmarking to predict the player satisfaction and market performance of indie Roguelike games on the Steam platform. (Status: TBA)
+* **`/earthquake_tsunami_risk_assessment`**
+  * **Summary:** A personal project that is still in the EDA stage. I intend to predict tsunamis from the dataset based on the seismic features afterwards.
 * **`/sa_model`**
   * **Summary:** Yet to be added.
  
@@ -34,4 +36,4 @@ Here is a breakdown of the projects contained in this repository:
 ---
 *Feel free to explore the individual folders for specific `README.md` files detailing the methodology and lessons learned for each project.*  ( ∩´͈ ᐜ `͈∩)
 
-<p align='center'> <br> ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</p>
+<p align='center'> <br> ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ </p>
